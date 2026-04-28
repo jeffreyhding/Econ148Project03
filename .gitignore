@@ -16,6 +16,3 @@ env/
 # IDE/editor files
 .vscode/
 .idea/
-
-# Generated outputs
-Econ148Proj03.pdf
