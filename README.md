@@ -6,7 +6,7 @@ Final research project for **Econ 148: Data Science for Economists** at UC Berke
 
 ---
 
-## 1. Assignment Description
+## 1. Project Description
 
 ### Track A Option 3: State Unemployment Insurance Claims Forecasting
 
@@ -18,7 +18,7 @@ Forecast weekly initial unemployment insurance claims for three to five US state
 
 ---
 
-## 2. Project Summary
+## 2. Overview
 
 For this project, we forecast weekly initial unemployment insurance claims for four states with contrasting labor market structures: California, New York, Indiana, and Hawaii. We use FRED state-level claims series as the main outcome data and augment the analysis with Google Trends search interest for unemployment-related terms: "unemployment", "unemployment benefits", "file for unemployment", "unemployment office", and "apply for unemployment".
 
