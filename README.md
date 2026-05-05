@@ -14,7 +14,9 @@ Forecast weekly initial unemployment insurance claims for three to five US state
 
 **Baseline:** ARIMA or OLS with lagged claims and seasonal dummies. 
 
-**ML comparison:** gradient boosting (XGBoost or LightGBM) or a small LSTM. Groups must explicitly address how they handle the COVID structural break, and should pick states with contrasting labor market structures (e.g., a tech-heavy state, a manufacturing state, a tourism-dependent state) to compare model performance across contexts.
+**ML comparison:** gradient boosting (XGBoost or LightGBM) or a small LSTM.
+
+Groups must explicitly address how they handle the COVID structural break, and should pick states with contrasting labor market structures (e.g., a tech-heavy state, a manufacturing state, a tourism-dependent state) to compare model performance across contexts.
 
 ---
 
