@@ -2,7 +2,7 @@
 
 ---
 
-## Assignment Description
+## 1. Assignment Description
 
 ### Track A Option 3: State Unemployment Insurance Claims Forecasting
 
@@ -14,7 +14,7 @@ Forecast weekly initial unemployment insurance claims for three to five US state
 
 ---
 
-## Project Summary
+## 2. Project Summary
 
 For this project, we forecast weekly initial unemployment insurance claims for four states with contrasting labor market structures: California, New York, Indiana, and Hawaii. We use FRED state-level claims series as the main outcome data and augment the analysis with Google Trends search interest for unemployment-related terms: "unemployment", "unemployment benefits", "file for unemployment", "unemployment office", and "apply for unemployment".
 
@@ -26,7 +26,7 @@ The final notebook includes, for all four states: exploratory data analysis, fea
 
 ---
 
-## Reproducibility
+## 3. Reproducibility
 
 If you would like to run our code yourself, clone this repository using GitHub Desktop or download it as a ZIP file, then open it in your IDE of choice.
 
