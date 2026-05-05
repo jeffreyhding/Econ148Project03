@@ -1,0 +1,1 @@
+Hello! For reproducing our work, please have all of the files present within this repository onto either your JupyterHub space or any other preferred coding platform. As long as the three folders included are present in the same file space as the .ipynb file, everything should run front to back!
