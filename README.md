@@ -1,5 +1,9 @@
 # Econ 148 Project 3
 
+Final research project for **Econ 148: Data Science for Economists** at UC Berkeley, Spring 2026.
+
+**Authors:** Atharva Nigudkar, Lola Yan, Emily Lui, Jeffrey Ding
+
 ---
 
 ## 1. Assignment Description
