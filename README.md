@@ -20,7 +20,7 @@ Forecast weekly initial unemployment insurance claims for three to five US state
 
 ## 2. Overview
 
-For this project, we forecast weekly initial unemployment insurance claims for four states with contrasting labor market structures: California, New York, Indiana, and Hawaii. We use FRED state-level claims series as the main outcome data and augment the analysis with Google Trends search interest for unemployment-related terms: "unemployment", "unemployment benefits", "file for unemployment", "unemployment office", and "apply for unemployment".
+For this project, we forecast weekly initial unemployment insurance claims for four states with contrasting labor market structures: California, New York, Indiana, and Hawaii. We use FRED state-level claims series as the main outcome data and augment the analysis with Google Trends search interest for the following unemployment-related terms: "unemployment", "unemployment benefits", "file for unemployment", "unemployment office", and "apply for unemployment".
 
 Our baseline model is ARIMA, which provides a simple time-series benchmark using only past claims values. We then compare this baseline against SARIMAX models that include engineered time-series features such as Fourier seasonality terms, COVID-period indicators, and Google Trends data. We also compared against LightGBM models using lagged claims and rolling averages.
 
