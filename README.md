@@ -2,7 +2,9 @@
 
 ---
 
-## Track A Option 3: State Unemployment Insurance Claims Forecasting
+## Assignment Description
+
+### Track A Option 3: State Unemployment Insurance Claims Forecasting
 
 Forecast weekly initial unemployment insurance claims for three to five US states using FRED’s state-level claims series (e.g., CAICLAIMS, TXICLAIMS, NYICLAIMS, FLICLAIMS, MIICLAIMS), accessed via `fredapi` with a free API key. Augment with state-level Google Trends data for unemployment-related search terms, pulled via the `pytrends` package and cached to CSV for reproducibility. 
 
