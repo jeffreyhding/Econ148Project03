@@ -8,6 +8,7 @@ Forecast weekly initial unemployment insurance claims for three to five US state
 
 **ML comparison:** gradient boosting (XGBoost or LightGBM) or a small LSTM. Groups must explicitly address how they handle the COVID structural break, and should pick states with contrasting labor market structures (e.g., a tech-heavy state, a manufacturing state, a tourism-dependent state) to compare model performance across contexts.
 
+---
 
 ## Project Summary
 
@@ -19,6 +20,7 @@ To address the COVID structural break, we include explicitly-defined COVID-perio
 
 The final notebook includes, for all four states: exploratory data analysis, feature construction, model tuning, model comparison, and future forecasts for select models.
 
+---
 
 ## Reproducibility
 
